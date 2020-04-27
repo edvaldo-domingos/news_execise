@@ -122,10 +122,12 @@ h6 {
   background: var(--dark-color);
   color: #fff;
 }
+
 .bg-primary {
   background: var(--primary-color);
   color: #fff;
 }
+
 .bg-secondary {
   background: var(--secondary-color);
   color: #fff;
@@ -134,9 +136,11 @@ h6 {
 .py-1 {
   padding: 1.5rem 0;
 }
+
 .py-2 {
   padding: 2rem 0;
 }
+
 .py-3 {
   padding: 3rem 0;
 }
@@ -144,9 +148,11 @@ h6 {
 .p-1 {
   padding: 1.5rem 0;
 }
+
 .p-2 {
   padding: 2rem 0;
 }
+
 .p-3 {
   padding: 3rem 0;
 }
@@ -169,13 +175,16 @@ h6 {
 .bg-secondary a {
   color: #fff;
 }
+
 .list li {
   padding: 0.5rem 0;
   border-bottom: #555 dotted 1px;
 }
+
 .list li a:hover {
   color: var(--primary-color) !important;
 }
+
 /* Inner page grid continer */
 .page-container {
   display: grid;
